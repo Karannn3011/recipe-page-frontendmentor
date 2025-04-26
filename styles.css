@@ -1,3 +1,5 @@
+
+
 @font-face {
     font-family: 'Young Serif';
     src: url('./assets/fonts/young-serif/YoungSerif-Regular.ttf') format('truetype');
@@ -102,3 +104,38 @@ li::marker {
     text-align: center;
     margin-top: 20px;
 }
+
+@media screen and (max-width: 1023px) {
+   
+    body {
+        overflow-x: hidden;
+        background-color: white;
+        margin: 0;
+    }
+    .container {
+        width: 100%;
+        margin: 0;
+        border-radius: 0;
+        padding: 0;
+    }
+      h2, h3 {
+        font-size: 1.6rem;
+      }
+      p {
+        font-weight: 400;
+      }
+      .container > div {
+        padding-left: 15px;
+        padding-right: 15px;
+      }
+      .container > img {
+        border-radius: 0px;
+        padding: 0px;
+        margin: 0px;
+        width: 100%;
+      }
+      .attribution {
+        font-size: 1rem;
+        text-align: center;
+      }
+  }
