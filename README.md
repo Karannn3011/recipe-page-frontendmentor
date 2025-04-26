@@ -33,7 +33,7 @@ Mobile View:
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://karannn3011.github.io/recipe-page-frontendmentor/))
+- Solution URL: [Recipe Page](https://karannn3011.github.io/recipe-page-frontendmentor/)
 
 ## My process
 
